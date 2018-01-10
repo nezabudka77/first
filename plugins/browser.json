@@ -1,0 +1,73 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "org.oetso"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "org.oetso"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "org.oetso"
+        }
+    }
+}
